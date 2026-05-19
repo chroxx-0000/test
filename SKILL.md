@@ -1,3 +1,4 @@
+---
 workspace_overview:
   description: "This workspace is focused on building modern web applications"
   technologies:
@@ -73,3 +74,4 @@ notes:
   - "Security and authorization issues are high priority"
   - "All permission changes must invalidate previous access states"
   - "Keep the codebase readable and documented"
+---
