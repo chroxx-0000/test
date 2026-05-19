@@ -1,5 +1,6 @@
 ---
 name: "skill-test"
+description: "Workspace development standards covering React, TypeScript, TailwindCSS, Node.js, and REST APIs with focus on clean architecture, security, and reusable components"
 workspace_overview:
   description: "This workspace is focused on building modern web applications"
   technologies:
