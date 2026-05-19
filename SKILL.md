@@ -1,4 +1,5 @@
 ---
+name: "skill-test"
 workspace_overview:
   description: "This workspace is focused on building modern web applications"
   technologies:
